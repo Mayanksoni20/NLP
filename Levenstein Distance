@@ -1,0 +1,2 @@
+import editdistance
+editdistance.eval('Hello World','Hello')
